@@ -1416,7 +1416,7 @@ label {
         flex-direction: column;
         position: relative;
         top: 0px;
-        left: -110%;
+        left: -150%;
         text-align: left;
         transition: all 0.5s;
         overflow: hidden;

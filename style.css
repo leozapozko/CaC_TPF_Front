@@ -1416,10 +1416,11 @@ label {
         flex-direction: column;
         position: relative;
         top: 0px;
-        left: -110%;
+        /*left: -110%;*/
         text-align: left;
         transition: all 0.5s;
         overflow: hidden;
+        visibility: hidden;
     }
 
     nav ul li {
@@ -1440,7 +1441,8 @@ label {
     }
 
     #check:checked~ul {
-        left: 0;
+        /*left: 0;*/
+        visibility: visible;
     }
 
     .logo img {

@@ -573,7 +573,7 @@ nav ul li:hover {
 }
 
 .boton {
-    border: 1px solid rgb(14, 142, 185);
+    border: 1px solid rgb(8, 115, 151);
     padding: 10px;
     background-color: rgb(10, 160, 210);
     color: white;
@@ -1416,7 +1416,7 @@ label {
         flex-direction: column;
         position: relative;
         top: 0px;
-        left: -150%;
+        left: -110%;
         text-align: left;
         transition: all 0.5s;
         overflow: hidden;

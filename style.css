@@ -1420,7 +1420,7 @@ label {
         text-align: left;
         transition: all 0.5s;
         overflow: hidden;
-        visibility: hidden;
+        display: none;
     }
 
     nav ul li {
@@ -1442,7 +1442,7 @@ label {
 
     #check:checked~ul {
         /*left: 0;*/
-        visibility: visible;
+        display: block;
     }
 
     .logo img {

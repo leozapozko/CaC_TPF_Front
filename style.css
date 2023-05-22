@@ -1344,6 +1344,8 @@ label {
 /* celulares */
 @media screen and (max-width: 480px) {
     .contenedor-index {
+        padding-left: 2%;
+        padding-right: 2%;
         grid-template-areas:
             'header-general header-general  header-general  header-general'
             'header-general header-general  header-general  header-general'
@@ -1356,6 +1358,8 @@ label {
     }
 
     .contenedor-servicios {
+        padding-left: 2%;
+        padding-right: 2%;
         grid-template-areas:
             'header-general header-general header-general header-general'
             'header-general header-general header-general header-general'
@@ -1367,6 +1371,8 @@ label {
     }
 
     .contenedor-notas {
+        padding-left: 2%;
+        padding-right: 2%;
         grid-template-areas:
             'header-general header-general header-general header-general'
             'header-general header-general header-general header-general'
@@ -1378,6 +1384,8 @@ label {
     }
 
     .contenedor-nosotros {
+       padding-left: 2%;
+        padding-right: 2%;
         grid-template-areas:
             'header-general header-general header-general header-general'
             'header-general header-general header-general header-general'
@@ -1389,6 +1397,8 @@ label {
     }
 
     .contenedor-contacto {
+        padding-left: 2%;
+        padding-right: 2%;
         grid-template-areas:
             'header-general header-general header-general header-general'
             'header-general header-general header-general header-general'
